@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Netflix Gpt 
 
 - Create React App 
@@ -32,3 +33,6 @@
 
 
 
+=======
+# netflix-gpt
+>>>>>>> 38ce156f47c47f377206b0dad4ab0f50c788e5d0
