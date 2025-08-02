@@ -1,11 +1,11 @@
 
 import './App.css';
+import Body from './components/Body';
+
 
 function App() {
   return (
-    <div  className="text-amber-200">
-      Hello world 
-    </div>
+    <Body/>
   );
 }
 
